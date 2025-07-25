@@ -1,104 +1,155 @@
-# 👨‍💻 Andile Nomaqhiza
+<!-- Banner (upload to your repo's assets folder or use a hosted link) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndileHub/YOUR-REPO/main/assets/banner.png" alt="Andile Nomaqhiza Data Portfolio" width="100%">
+</p>
 
-**Aspiring Data Analyst | Entry-Level Data Scientist | ICT Graduate**
+<h1 align="center">👋 Hi, I'm Andile Nomaqhiza</h1>
+
+<p align="center">
+  <em>📊 Aspiring Data Analyst • 🧪 Junior Data Scientist • 🌍 South Africa</em><br>
+  <strong>Transforming data into actionable insight with tools like Python, SQL, Power BI, and Excel.</strong>
+</p>
 
 ---
 
-## 👋 Welcome
+##  About Me
 
-Thank you for visiting my GitHub profile. I am a detail-oriented and analytical graduate with a Diploma in ICT in Communication Networks from Walter Sisulu University. My academic foundation, paired with hands-on practical training in Big Data Analytics, has equipped me with a well-rounded skill set in data analysis, data visualization, and cloud-based data technologies.
+🎓 I hold a **Diploma in ICT in Communication Networks** from **Walter Sisulu University**.  
+📜 I completed a practical **Big Data Analytics Training Programme** at **ORT-SA**, with hands-on experience in:
 
-This repository serves as a professional showcase of the projects I have completed using **Excel**, **Power BI**, **SQL**, **NoSQL (Cassandra)**, **Python**, and **Apache Spark**—including an academic group project in **Project Management**.
+ 
+ 🔸 Excel for Big Data Analytics  
+ 🔸 Power BI for Reporting & Dashboards  
+ 🔸 SQL for Data Retrieval & Querying  
+ 🔸 NoSQL with Cassandra  
+ 🔸 Python for Data Analysis & Visualization  
+ 🔸  Microsoft Azure for Cloud Data Environments  
+ 🔸  Apache Spark for Big Data Processing
 
----
-
-## 🎓 Academic & Training Background
-
-- 🎓 **Diploma in ICT in Communication Networks**  
-  *Walter Sisulu University*
-
-- 📜 **Certificate in Big Data Analytics**  
-  *ORT-SA Training Programme (Practical)*
-
-  Practical experience covered:
-  - Application of **Excel** in Big Data Analytics
-  - Application of **Power BI** in Big Data Analytics
-  - Application of **SQL** in Big Data Analytics
-  - Application of **NoSQL (Cassandra)** in Big Data Analytics
-  - Application of **Python** in Big Data Analytics
-  - Use of **Microsoft Azure** in Big Data Environments
-  - Use of **Apache Spark** for large-scale data processing
+💡 I’m passionate about solving problems with data and uncovering trends that support smarter business decisions.
 
 ---
 
 ## 💼 Career Objective
 
-I am currently seeking **entry-level opportunities** in the fields of:
+I'm currently seeking **entry-level roles** in:
 
-- **Data Analysis**
-- **Business Intelligence**
-- **Data Science**
+- 📊 Data Analysis  
+- 🧠 Junior Data Science  
+- 📈 Business Intelligence
 
-My objective is to contribute meaningfully to data-driven teams and enhance my professional experience while delivering practical and measurable results.
+My goal is to work on real-world data projects contribute to impactful insights, and grow in the world of data analytics and cloud computing.
 
----
+ ---
 
-##  Technical & Analytical Skills
+<h3 align="left">🛠️ Languages and tools:</h3>
 
-| Category              | Tools & Technologies                                     |
-|-----------------------|----------------------------------------------------------|
-| Data Analysis          | Microsoft Excel (PivotTables, Formulas, Charts)         |
-| Data Visualization     | Power BI, Excel Dashboards                              |
-| Programming            | Python (Pandas, NumPy, Matplotlib, Seaborn)             |
-| Databases              | SQL (MySQL, MS SQL Server), NoSQL (Cassandra)           |
-| Big Data & Cloud Tools | Apache Spark, Microsoft Azure                           |
-| Project Planning       | Gantt Charts, Work Breakdown Structures, Cost Analysis  |
-| Version Control        | Git & GitHub                                             |
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="40" alt="apachecassandra logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
+</div>
 
-## 📁 Projects Portfolio
+###
 
-Below are folders containing examples of my work, structured to highlight real-world data applications:
+<div align="left">
+</div>
 
-### 🔹 `Excel/`
-- KPI dashboards, sales reports, automated sheets for data cleaning and analysis
+###
 
-### 🔹 `PowerBI/`
-- Interactive business dashboards and visual reports showcasing trends and KPIs
+## Skills Summary
 
-### 🔹 `SQL/`
-- Structured query projects: joins, data cleaning, aggregation, reporting
-
-### 🔹 `NoSQL/`
-- Sample projects using **Cassandra**: keyspace design, CQL queries, scalable data models
-
-### 🔹 `Python/`
-- Jupyter Notebooks covering python programming basics,exploratory data analysis, and basic visualizations
-
-### 🔹 `ProjectManagement/`
-- **Wi-Fi Connectivity Rollout for Eastern Cape Schools** (Academic Capstone Project)
-- **Enterprise-Wide Integration of Automation at WSU Campus** (Academic Capstone Project)  
-  A group project for the Eastern Cape Department of Education involving:
-  - Network design planning
-  - Project timeline (Gantt chart)
-  - Budget estimation and resource allocation
-  - Risk management and documentation
-
-> 📄 Each folder contains a README detailing the objectives, tools used, and outcomes.
+| 💼 Category            | 🚀 Tools / Technologies                                     |
+|------------------------|-------------------------------------------------------------|
+| **Data Analysis**       | Microsoft Excel, Power BI                                   |
+| **Data Querying**       | SQL (MySQL, SQL Server), NoSQL (Cassandra)                 |
+| **Programming**         | Python (Pandas, NumPy, Matplotlib)                         |
+| **Cloud & Big Data**    | Microsoft Azure, Apache Spark                              |
+| **Visualization**       | Power BI Dashboards, Excel Charts & KPIs                   |
+| **Project Planning**    | Gantt Charts, WBS, Risk Documentation                      |
+| **Tools**               | GitHub, Jupyter Notebooks                                  |
 
 ---
 
-## 📫 Contact & Professional Profile
+## 📁 Featured Projects
 
-- 🔗 [LinkedIn: Andile Nomaqhiza](www.linkedin.com/in/andile-nomaqhiza)
-- 📧 Email: nomaqhizaandile@outlook.com
-- 🌍 Based in: South Africa (open to remote, hybrid, and relocation opportunities)
+Each folder in this repository includes **sample work**, **code**, and **short documentation** to explain the task and output.
+
+### 🔸 Excel Projects
+📊 KPI reports, sales analysis, pivot tables, data cleaning, and charts.
+
+### 🔸 Power BI Dashboards
+📈 Visualizations of sales data, performance metrics, and trends.
+
+### 🔸 SQL Projects
+🧩 SQL scripts for data filtering, joining, aggregation, and business analysis.
+
+### 🔸 NoSQL (Cassandra)
+📚 Sample keyspace, column family models, and NoSQL query examples.
+
+### 🔸 Python Analytics
+🐍 Notebooks for data loading, cleaning, EDA (Exploratory Data Analysis), and basic visualizations.
+
+### 🔸 Project Management (Academic)
+📡 **Wi-Fi for Schools**: A project for the Eastern Cape Department of Education 
+📡 **Enterprise-Wide Integration of Automation at WSU Campus**: A Project plan to implement IoT solutiona Walter Sisulu University 
+Contributions:
+- Establishing a Project Proposal
+- Scope planning
+- Project charter
+- Network and timeline planning
+- Cost estimation
+- Risk assessment
+- Gantt chart development
+- Presentations
+
+> 💼 Each project folder contains its own `README.md` file for context and instructions.
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
-I am always open to collaboration, professional networking, and new opportunities to learn and grow in the data field. If you are a recruiter, hiring manager, or fellow professional, feel free to reach out or explore my projects.
+<p align="left">
+  <a href="https://www.linkedin.com/in/andile-nomaqhiza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nomaqhizaandile@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-Thank you for taking the time to view my portfolio.
+- 📍 Based in South Africa  
+- 🌍 Open to remote or hybrid opportunities  
+- 🤝 Open to internships, junior roles, and data projects
+
+---
+
+## 📊 GitHub Stats 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" alt="Andkle's GitHub stats" />
+</p>
+
+---
+
+## 🙏 Thank You!
+
+Thank you for visiting my portfolio!  
+Feel free to **explore**, **connect**, or **collaborate** with me on data-driven projects.
+
+> ✨ *Let's build the future with data.*
+
