@@ -1,9 +1,104 @@
-<p align="left"># 👋 Hi, I'm Andile Nomaqhiza<br><br>Welcome to my GitHub Portfolio!  <br>I'm an enthusiastic and aspiring **Data Analyst** with hands-on experience in working with data through tools like **Excel**, **Power BI**, **SQL**, **NoSQL (Cassandra)**, **Python**, and **Spark** — with a growing interest in **Data Science**.<br><br>---<br><br>## About Me<br><br>🎓 I hold a **Diploma in ICT in Communication Networks** from Walter Sisulu University.  <br>📜 I also completed a practical **Big Data Analytics training programme** at **ORT-SA**, where I gained hands-on experience in:<br><br>- Application of **Excel** in Big Data Analytics  <br>- Application of **Power BI** in Big Data Analytics  <br>- Application of **SQL** in Big Data Analytics  <br>- Application of **NoSQL (Cassandra)** in Big Data Analytics  <br>- Application of **Python** in Big Data Analytics  <br>- Use of **Microsoft Azure** in Big Data environments  <br>- Introduction to **Apache Spark** for large-scale data processing<br><br>💡 I enjoy transforming complex data into clear insights to support decision-making and solving real-world problems using data.<br><br>---<br><br>## 💼 Career Objective<br><br>I'm currently seeking **entry-level roles** as a:<br>- 📊 **Data Analyst**<br>- 🧪 **Junior Data Scientist**<br>- 📈 **Business Intelligence Intern**<br><br>My goal is to contribute to real-world projects while continuously learning and growing in the fields of data analytics, cloud technologies, and machine learning.<br><br>---<br><br>## 🛠️ Skills Summary<br><br>| Category            | Tools / Technologies                                     |<br>|---------------------|----------------------------------------------------------|<br>| Data Analysis       | Microsoft Excel, Power BI                                |<br>| Data Manipulation   | SQL (MySQL, SQL Server), NoSQL (Cassandra)               |<br>| Programming         | Python (Pandas, NumPy, Matplotlib)                       |<br>| Big Data & Cloud    | Microsoft Azure, Apache Spark                            |<br>| Data Visualization  | Power BI, Excel Dashboards                               |<br>| Project Planning    | Gantt Charts, Work Breakdown Structures (WBS)            |<br>| Tools & Platforms   | GitHub, Jupyter Notebooks                                |<br><br>---<br><br>## 📁 Projects You’ll Find Here<br><br>Each folder in this repository showcases practical examples of my work:<br><br>
-### 🔹 Excel Projects<br>- Sales reports, pivot dashboards, and data cleaning using formulas<br><br>
-### 🔹 Power BI Dashboards<br>- Interactive dashboards to visualize KPIs, trends, and insights<br><br>
-### 🔹 SQL Projects<br>- Queries for filtering, joining, aggregating, and reporting on business data<br><br>
-### 🔹 NoSQL (Cassandra)<br>- Practical data models and queries for scalable databases<br><br>
-### 🔹 Python Analytics<br>- Scripts for data analysis, visualization, and basic data cleaning<br><br>
-### 🔹 Project Management (Academic Project)<br>- **Wi-Fi for Schools** (Eastern Cape Department of Education):<br>  - Academic group project where I contributed to:<br>    - Network planning and costing<br>    - Project timeline (Gantt chart)<br>    - Risk assessment and documentation<br><br>> 📌 Each project folder includes a short README and documentation for context.<br><br>---<br><br>## 📫 Let's Connect!<br><br>- 🔗 [LinkedIn: Andkle Nomaqhiza](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)<br>- 📧 Email: your.email@example.com  <br>- 🌍 Location: South Africa | Open to remote or hybrid opportunities<br><br>---<br><br>## 🤝 Open to Work & Collaborations<br><br>I’m actively looking for opportunities to apply and grow my data skills.  <br>If you're a recruiter, hiring manager, or someone working on a data project, feel free to reach out!<br><br>---<br><br>⭐ Thank you for visiting my portfolio. Feel free to explore, clone, or connect with me!</p>
+# 👨‍💻 Andile Nomaqhiza
 
-###
+**Aspiring Data Analyst | Entry-Level Data Scientist | ICT Graduate**
+
+---
+
+## 👋 Welcome
+
+Thank you for visiting my GitHub profile. I am a detail-oriented and analytical graduate with a Diploma in ICT in Communication Networks from Walter Sisulu University. My academic foundation, paired with hands-on practical training in Big Data Analytics, has equipped me with a well-rounded skill set in data analysis, data visualization, and cloud-based data technologies.
+
+This repository serves as a professional showcase of the projects I have completed using **Excel**, **Power BI**, **SQL**, **NoSQL (Cassandra)**, **Python**, and **Apache Spark**—including an academic group project in **Project Management**.
+
+---
+
+## 🎓 Academic & Training Background
+
+- 🎓 **Diploma in ICT in Communication Networks**  
+  *Walter Sisulu University*
+
+- 📜 **Certificate in Big Data Analytics**  
+  *ORT-SA Training Programme (Practical)*
+
+  Practical experience covered:
+  - Application of **Excel** in Big Data Analytics
+  - Application of **Power BI** in Big Data Analytics
+  - Application of **SQL** in Big Data Analytics
+  - Application of **NoSQL (Cassandra)** in Big Data Analytics
+  - Application of **Python** in Big Data Analytics
+  - Use of **Microsoft Azure** in Big Data Environments
+  - Use of **Apache Spark** for large-scale data processing
+
+---
+
+## 💼 Career Objective
+
+I am currently seeking **entry-level opportunities** in the fields of:
+
+- **Data Analysis**
+- **Business Intelligence**
+- **Data Science**
+
+My objective is to contribute meaningfully to data-driven teams and enhance my professional experience while delivering practical and measurable results.
+
+---
+
+##  Technical & Analytical Skills
+
+| Category              | Tools & Technologies                                     |
+|-----------------------|----------------------------------------------------------|
+| Data Analysis          | Microsoft Excel (PivotTables, Formulas, Charts)         |
+| Data Visualization     | Power BI, Excel Dashboards                              |
+| Programming            | Python (Pandas, NumPy, Matplotlib, Seaborn)             |
+| Databases              | SQL (MySQL, MS SQL Server), NoSQL (Cassandra)           |
+| Big Data & Cloud Tools | Apache Spark, Microsoft Azure                           |
+| Project Planning       | Gantt Charts, Work Breakdown Structures, Cost Analysis  |
+| Version Control        | Git & GitHub                                             |
+
+---
+
+## 📁 Projects Portfolio
+
+Below are folders containing examples of my work, structured to highlight real-world data applications:
+
+### 🔹 `Excel/`
+- KPI dashboards, sales reports, automated sheets for data cleaning and analysis
+
+### 🔹 `PowerBI/`
+- Interactive business dashboards and visual reports showcasing trends and KPIs
+
+### 🔹 `SQL/`
+- Structured query projects: joins, data cleaning, aggregation, reporting
+
+### 🔹 `NoSQL/`
+- Sample projects using **Cassandra**: keyspace design, CQL queries, scalable data models
+
+### 🔹 `Python/`
+- Jupyter Notebooks covering python programming basics,exploratory data analysis, and basic visualizations
+
+### 🔹 `ProjectManagement/`
+- **Wi-Fi Connectivity Rollout for Eastern Cape Schools** (Academic Capstone Project)
+- **Enterprise-Wide Integration of Automation at WSU Campus** (Academic Capstone Project)  
+  A group project for the Eastern Cape Department of Education involving:
+  - Network design planning
+  - Project timeline (Gantt chart)
+  - Budget estimation and resource allocation
+  - Risk management and documentation
+
+> 📄 Each folder contains a README detailing the objectives, tools used, and outcomes.
+
+---
+
+## 📫 Contact & Professional Profile
+
+- 🔗 [LinkedIn: Andile Nomaqhiza](www.linkedin.com/in/andile-nomaqhiza)
+- 📧 Email: nomaqhizaandile@outlook.com
+- 🌍 Based in: South Africa (open to remote, hybrid, and relocation opportunities)
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to collaboration, professional networking, and new opportunities to learn and grow in the data field. If you are a recruiter, hiring manager, or fellow professional, feel free to reach out or explore my projects.
+
+Thank you for taking the time to view my portfolio.
