@@ -1,6 +1,6 @@
 <!-- Banner (upload to your repo's assets folder or use a hosted link) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndileHub/YOUR-REPO/main/assets/banner.png" alt="Andile Nomaqhiza Data Portfolio" width="100%">
+  <img src="https://raw.githubusercontent.com/AndileHub/README.md/main/assets/banner.png" alt="Andile Nomaqhiza Data Portfolio" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Andile Nomaqhiza</h1>
@@ -135,14 +135,6 @@ Contributions:
 - 📍 Based in South Africa  
 - 🌍 Open to remote or hybrid opportunities  
 - 🤝 Open to internships, junior roles, and data projects
-
----
-
-## 📊 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" alt="Andkle's GitHub stats" />
-</p>
 
 ---
 
