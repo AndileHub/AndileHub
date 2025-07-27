@@ -76,7 +76,7 @@ My goal is to work on real-world data projects contribute to impactful insights,
 | 💼 Category            | 🚀 Tools / Technologies                                     |
 |------------------------|-------------------------------------------------------------|
 | **Data Analysis**       | Microsoft Excel, Power BI                                   |
-| **Data Querying**       | SQL (MySQL, SQL Server), NoSQL (Cassandra)                 |
+| **Data Querying**       | SQL (SQL Server), NoSQL (Cassandra)                 |
 | **Programming**         | Python (Pandas, NumPy, Matplotlib)                         |
 | **Cloud & Big Data**    | Microsoft Azure, Apache Spark                              |
 | **Visualization**       | Power BI Dashboards, Excel Charts & KPIs                   |
