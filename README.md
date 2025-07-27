@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm Andile Nomaqhiza</h1>
 
 <p align="center">
-  <em>📊 Aspiring Data Analyst • 🧪 Junior Data Scientist • 🌍 South Africa</em><br>
+  <em>📊 Aspiring Data Analyst • 🛠️ Junior Data Engineer  • 🌍 South Africa</em><br>
   <strong>Transforming data into actionable insight with tools like Python, SQL, Power BI, and Excel.</strong>
 </p>
 
