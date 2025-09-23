@@ -14,7 +14,7 @@
 
 ##  About Me
 
-🎓 I hold a ** Advanced Diploma in ICT in Communication Networks** from **Walter Sisulu University**.  
+🎓 I hold ** Advanced Diploma in ICT in Communication Networks** from **Walter Sisulu University**.  
 📜 I completed a practical **Big Data Analytics Training Programme** at **ORT-SA**, with hands-on experience in:
 
  
