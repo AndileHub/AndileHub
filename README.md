@@ -36,7 +36,8 @@ I'm currently seeking **entry-level roles** in:
 
 - 📊 Data Analysis  
 - 📈 Business Intelligence
-- 🛠️ Junior Data Engineer 
+- 🛠️ Junior Data Engineer
+- 👨‍💻 Software Developer
 
 My goal is to work on real-world data projects contribute to impactful insights, and grow in the world of data analytics and cloud computing.
 
