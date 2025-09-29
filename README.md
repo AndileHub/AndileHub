@@ -110,7 +110,10 @@ Each folder in this repository includes **sample work**, **code**, and **short d
 🐍 Notebooks for data loading, cleaning, EDA (Exploratory Data Analysis), and basic visualizations.
 
 ### 🔸 Project Management (Academic)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-ProjectManagementProposal-181717?logo=github)](https://github.com/AndileHub/ProjectManagementProposal.git)
 📡 **Wi-Fi for Schools**: A project for the Eastern Cape Department of Education 
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-ProjectManagement-181717?logo=github)](https://github.com/AndileHub/ProjectManagement.git)
 📡 **Enterprise-Wide Integration of Automation at WSU Campus**: A Project plan to implement IoT solutiona Walter Sisulu University 
 Contributions:
 - Establishing a Project Proposal
