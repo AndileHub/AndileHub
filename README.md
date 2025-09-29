@@ -99,6 +99,7 @@ Each folder in this repository includes **sample work**, **code**, and **short d
 📈 Visualizations of sales data, performance metrics, and trends.
 
 ### 🔸 SQL Projects
+[![SQL Projects](https://img.shields.io/badge/SQL-Projects-336791?logo=postgresql&logoColor=white)](https://github.com/AndileHub/SQL.git)
 🧩 SQL scripts for data filtering, joining, aggregation, and business analysis.
 
 ### 🔸 NoSQL (Cassandra)
