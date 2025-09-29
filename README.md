@@ -91,10 +91,9 @@ My goal is to work on real-world data projects contribute to impactful insights,
 Each folder in this repository includes **sample work**, **code**, and **short documentation** to explain the task and output.
 
 ### 🔸 Excel Projects
-📊 KPI reports, sales analysis, pivot tables, data cleaning, and charts.
 [![GitHub Repo](https://img.shields.io/badge/GitHub-PivotChartsPivotTables-181717?logo=github)](https://github.com/AndileHub/PivotChartsPivotTables.git)
+📊 KPI reports, sales analysis, pivot tables, data cleaning, and charts.
 
-      
 
 ### 🔸 Power BI Dashboards
 📈 Visualizations of sales data, performance metrics, and trends.
