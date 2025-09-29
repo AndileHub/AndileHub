@@ -103,6 +103,7 @@ Each folder in this repository includes **sample work**, **code**, and **short d
 🧩 SQL scripts for data filtering, joining, aggregation, and business analysis.
 
 ### 🔸 NoSQL (Cassandra)
+[![NoSQL Cassandra](https://img.shields.io/badge/NoSQL-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)](https://github.com/AndileHub/NoSQL-Cassandra.git)
 📚 Sample keyspace, column family models, and NoSQL query examples.
 
 ### 🔸 Python Analytics
