@@ -96,6 +96,7 @@ Each folder in this repository includes **sample work**, **code**, and **short d
 
 
 ### 🔸 Power BI Dashboards
+[![Power BI Repo](https://img.shields.io/badge/PowerBI-Projects-F2C811?logo=powerbi&logoColor=black)](https://github.com/AndileHub/PowerBI_Projects.git)
 📈 Visualizations of sales data, performance metrics, and trends.
 
 ### 🔸 SQL Projects
