@@ -90,6 +90,10 @@ My goal is to work on real-world data projects contribute to impactful insights,
 
 Each folder in this repository includes **sample work**, **code**, and **short documentation** to explain the task and output.
 
+### 🔸 Network Project Management
+[![Network Project Management](https://img.shields.io/badge/Project-Network%20Management-0A66C2?logo=github&logoColor=white)](https://github.com/AndileHub/network-project-management)
+🧭 Activity sequencing, critical path analysis, resource requirements planning, and resource levelling using CPM techniques.
+
 ### 🔸 Excel Projects
 [![Excel Projects](https://img.shields.io/badge/Excel-PivotChartsPivotTables-217346?logo=microsoft-excel&logoColor=white)](https://github.com/AndileHub/PivotChartsPivotTables.git)
 📊 KPI reports, sales analysis, pivot tables, data cleaning, and charts.
